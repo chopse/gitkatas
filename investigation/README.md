@@ -1,4 +1,4 @@
-# Git Kata: Git objects
+# Git Kata: Investigation
 Objects are stored in `<repository>/.git/objects` in subfolders matching the first two chars of the sha.
 `fc1da6e8f` is therefore the file: `.git/objects/fc/1da6e8f`.
 
